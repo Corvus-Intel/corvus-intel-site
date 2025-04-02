@@ -1,1 +1,1 @@
-console.log('Phase Ø activated');
+console.log("Phase Ø: Comms active. Whisper Ø online.");
